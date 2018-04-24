@@ -8,9 +8,9 @@ QQ音乐下载器 QQmusicdownman
 
 软件开发中，为了方便，调用了模块，但是调用的模块都是有源码的  
 本源码里面给出了模块，并没有包含模块源码，如果您需要，可以在我源码网下载：  
-http://eyycode.com/
-软件成品下载：https://www.ghboke.com/qqmusicdownloadman.html  
-本软件中使用的下载算法分析：https://lovestu.com/20.html
+http://eyycode.com/  
+软件成品下载：https://www.ghboke.com/qqmusicdownloadman.html    
+本软件中使用的下载算法分析：https://lovestu.com/20.html  
 软件是一套完整支持易语言unicode的程序，支持搜索和下载韩文，泰文等歌曲，下载不乱码  的
 目前最新版本2.5，当前开源版本为2.0。  
 下个版本更新后开源2.5版本  
